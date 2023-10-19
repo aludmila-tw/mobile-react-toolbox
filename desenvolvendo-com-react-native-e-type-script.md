@@ -1,5 +1,3 @@
-Claro! Aqui está um resumo de como começar a desenvolver aplicativos com React Native usando TypeScript:
-
 ## Início Rápido: Desenvolvendo com React Native e TypeScript
 
 ### Passo 1: Configuração do Ambiente
